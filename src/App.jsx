@@ -14,7 +14,8 @@ function App() {
     <div className="overflow-hidden">
       <div className="relative overflow-hidden bg-no-repeat bg-cover w-screen h-screen" style={{
         // backgroundPosition: '50%',
-        backgroundImage: "url('https://mobimg.b-cdn.net/v3/fetch/c1/c16ef7461f4516485a2bcb65266bad09.jpeg')",
+        // backgroundImage: "url('https://img.freepik.com/premium-photo/tropical-jungle-southeast-asia_480416-121.jpg')",
+        backgroundImage: "url('./forest.avif')",
         // backgroundImage: "url('https://i.pinimg.com/originals/0b/3d/0c/0b3d0c7d4cba82343643a5f4c48e2fba.gif')"
         // height: '350px'
       }}>
